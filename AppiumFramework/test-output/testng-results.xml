@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59346" started-at="2020-06-28T20:01:40Z" finished-at="2020-06-28T20:02:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59346" started-at="2020-06-28T20:01:40Z" finished-at="2020-06-28T20:02:40Z">
+      <class name="Practice.AppiumFramework.GeneralStoreTest">
+        <test-method status="PASS" signature="totalValidation()[pri:0, instance:Practice.AppiumFramework.GeneralStoreTest@1efed2d]" name="totalValidation" duration-ms="59277" started-at="2020-06-28T20:01:40Z" finished-at="2020-06-28T20:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- Practice.AppiumFramework.GeneralStoreTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

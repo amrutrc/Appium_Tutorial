@@ -1,0 +1,10 @@
+package ApiDemos;
+
+public class api_demo_real_device {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

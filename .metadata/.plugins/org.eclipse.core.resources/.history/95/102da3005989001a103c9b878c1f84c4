@@ -1,0 +1,22 @@
+package ApiDemos;
+
+import java.net.MalformedURLException;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.Keys;
+
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
+
+public class scrolling_3 extends api_demo_real_device
+{
+	public static void main(String[] args) throws MalformedURLException 
+	{
+		 AndroidDriver<AndroidElement> driver = Capabilities();
+		 driver.findElementByXPath("//android.widget.TextView[@content-desc='Auto Complete']").click();
+		 driver.findElementByAndroidUIAutomator("text(\"6. Multiple items\")").click();
+		 driver.findElementById("io.appium.android.apis:id/edit").sendKeys("india" + "\n");
+		 driver.manage().timeouts().implicitlyWait(20000, TimeUnit.SECONDS);
+		driver.findElementById("io.appium.android.apis:id/edit").sendKeys("brazil");
+	}
+}

@@ -1,0 +1,24 @@
+package ApiDemos;
+
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
+import io.appium.java_client.remote.AndroidMobileCapabilityType;
+import io.appium.java_client.remote.MobileCapabilityType;
+
+public class api_demo_real_device 
+{
+	public static void main(String[] args) 
+	{
+		AndroidDriver<AndroidElement> driver;
+		 DesiredCapabilities cap = new DesiredCapabilities();
+		 cap.setCapability(MobileCapabilityType.DEVICE_NAME, "aqjrmjsoaqqkbude");
+		 cap.setCapability(MobileCapabilityType.VERSION, "9.0");
+		 cap.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
+		 cap.setCapability(AndroidMobileCapabilityType.APP_PACKAGE,"io.appium.android.apis");
+		 cap.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,".ApiDemos");
+
+	}
+
+}

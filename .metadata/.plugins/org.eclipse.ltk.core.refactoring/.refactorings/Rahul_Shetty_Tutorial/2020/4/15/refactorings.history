@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Swip_event&apos; to &apos;Swipedemo&apos;&#x0D;&#x0A;- Original project: &apos;Rahul_Shetty_Tutorial&apos;&#x0D;&#x0A;- Original element: &apos;Swip_event&apos;&#x0D;&#x0A;- Renamed element: &apos;Swipedemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Swip_event&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Swip_event.java[Swip_event" matchStrategy="1" name="Swipedemo" qualified="false" references="true" similarDeclarations="false" stamp="1586599470020" textual="false" version="1.0"/>
+</session>

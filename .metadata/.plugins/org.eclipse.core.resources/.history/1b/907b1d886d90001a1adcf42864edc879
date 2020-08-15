@@ -1,0 +1,34 @@
+package Test;
+
+import org.testng.annotations.Test;
+
+public class day5 
+{
+
+	@Test(enabled = false)
+	public void ADemo()
+	{
+		System.out.println("ADemo");
+	}
+	
+	@Test
+	public void EDemo()
+	{
+		System.out.println("EDemo");
+	}
+	
+	@Test(dependsOnMethods = {"ADemo"})
+	public void IDemo()
+	{
+		System.out.println("IDemo");
+	}
+	
+	@Test(dependsOnMethods = {"ADemo","EDemo"})
+	public void ODemo()
+	{
+		System.out.println("ODemo");
+	}
+	
+	
+	
+}

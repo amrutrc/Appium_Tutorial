@@ -1,0 +1,36 @@
+package Test;
+
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+public class day3 
+{
+	@Test
+	public void MobileLoginCarLoan()
+	{
+		System.out.println("MobileLogincarLoan --->");
+	}
+
+	@Parameters({"URL", "APIKey/userName"})
+	@Test
+	public void MobileSignInCarLoan(String urlname, String key)
+	{
+		System.out.println("MobileSignInCarLoan --->");	
+		System.out.println(urlname);
+		System.out.println(key);
+		
+	}
+	
+	@Test
+	public void MobileSignOutCarLoan()
+	{
+		System.out.println("MobileSignOutCarLoan --->");
+	}
+	
+	@BeforeSuite
+	public void setUp()
+	{
+		System.out.println("Before Suite");	
+	}	
+}

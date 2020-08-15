@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Eclipse Docker Tooling</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-docker-tooling</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2020-06-29 12:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse.org%22&quot;&gt;Eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-02-02 16:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rgrunberg/listings&quot; title=&quot;Roland Grunberg&quot;&gt;Roland Grunberg&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Eclipse Docker Tooling plugin provides the ability to manage Docker images and containers from within the Eclipse IDE.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 02 Feb 2016 21:42:02 +0000</pubDate>
+ <dc:creator>rgrunberg</dc:creator>
+ <guid isPermaLink="false">2706327 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-docker-tooling#comments</comments>
+  </item>
+  <item>
+    <title>SQL DAL Maker</title>
+    <link>http://marketplace.eclipse.org/content/sql-dal-maker</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sqldalmaker_24.png&quot; width=&quot;24&quot; height=&quot;24&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2020-06-29 00:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22.%22&quot;&gt;.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-08-02 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pmisingnameeok/listings&quot; title=&quot;panedrone Mising name&quot;&gt;panedrone Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SQL DAL Maker is a generator of DTO and DAO classes to access relational databases. Target programming languages: PHP, Java, C++, Python, Ruby. To generate the class, you declare it in XML meta-program.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/panedrone/sqldalmaker&quot; rel=&quot;nofollow&quot;&gt;https://github.com/panedrone/sqldalmaker&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 02 Aug 2011 22:05:21 +0000</pubDate>
+ <dc:creator>pmisingnameeok</dc:creator>
+ <guid isPermaLink="false">97312 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sql-dal-maker#comments</comments>
+  </item>
+  <item>
+    <title>Groovy Development Tools</title>
+    <link>http://marketplace.eclipse.org/content/groovy-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2020-06-28 16:50&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven (m2e) support for the &lt;a href=&quot;http://groovy-lang.org&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
+&lt;p&gt;The GDT requires the &lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-java-development-tools-0&quot; rel=&quot;nofollow&quot;&gt;Eclipse Java Development Tools&lt;/a&gt; (JDT) as it builds upon Java/JVM support, including Java interoperability (bi-directional dependencies via joint compilation). If your Eclipse flavor does not include JDT, you must install it first.&lt;/p&gt;
+&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, then please consider &lt;a href=&quot;https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse&quot; rel=&quot;nofollow&quot;&gt;Groovy-Grails Tools Suite&lt;/a&gt; or &lt;a href=&quot;https://github.com/spring-projects/grails-ide&quot; rel=&quot;nofollow&quot;&gt;spring-projects/grails-ide&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
+ <dc:creator>aclement</dc:creator>
+ <guid isPermaLink="false">321859 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>eclipse-pmd</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-pmd</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/eclipse-pmd-logo-110x80_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2020-06-28 07:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Philip%20Graf%22&quot;&gt;Philip Graf&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2013-06-22 05:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pgrafn2q/listings&quot; title=&quot;Philip Graf&quot;&gt;Philip Graf&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The &lt;a href=&quot;https://eclipse-pmd.github.io/&quot; rel=&quot;nofollow&quot;&gt;eclipse-pmd&lt;/a&gt; plug-in integrates the source code analyzer PMD into the Eclipse IDE. Everytime you save your work, eclipse-pmd scans your source code and looks for potential problems like possible bugs and suboptimal, duplicate, dead or overly complicated code. Where possible, eclipse-pmd offers quick fixes that automatically fix the problems. These quick fixes can be used to fix a single problem or all occurrences in your entire code base.&lt;/p&gt;
+&lt;p&gt;You can support the development of eclipse-pmd by &lt;a href=&quot;https://github.com/sponsors/eclipse-pmd&quot; rel=&quot;nofollow&quot;&gt;becoming a sponsor&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 22 Jun 2013 09:32:19 +0000</pubDate>
+ <dc:creator>pgrafn2q</dc:creator>
+ <guid isPermaLink="false">932046 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-pmd#comments</comments>
+  </item>
+  <item>
+    <title>Spectrum Dark Theme</title>
+    <link>http://marketplace.eclipse.org/content/spectrum-dark-theme</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo_250px.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aobuchowicz/listings&quot; title=&quot;Andrew Obuchowicz&quot;&gt;Andrew Obuchowicz&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2020-06-28 00:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2020-06-24 08:57&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Give Eclipse 4.16+ a &lt;em&gt;fresh&lt;/em&gt; new look with Spectrum Theme. This free and open-source dark theme plugin enhances your Eclipse IDE experience with a clean visual overhaul that can be customized to your liking. &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Plugin Features:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Spectrum Theme:&lt;/strong&gt; a clean &amp;amp; flat visual overhaul to Eclipse IDE&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizable theme colors:&lt;/strong&gt; show &lt;em&gt;your style&lt;/em&gt; by changing the colors used in Spectrum Theme. Associate different color schemes on a per-workspace basis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizable Project Explorer font:&lt;/strong&gt; change the size &amp;amp; font of the Project Explorer in Eclipse IDE&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;&lt;strong&gt;Free and Open Source:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Spectrum theme is an open-source project using an EPL 2.0 license. &lt;strong&gt;All feedback, feature ideas, and contributions are encouraged and greatly appreciated.&lt;/strong&gt; The plugin is constantly improving thanks to community contributions. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project repository:&lt;/strong&gt; &lt;a href=&quot;https://github.com/AObuchow/Eclipse-Spectrum-Theme&quot; rel=&quot;nofollow&quot;&gt;https://github.com/AObuchow/Eclipse-Spectrum-Theme&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 24 Jun 2020 12:57:38 +0000</pubDate>
+ <dc:creator>aobuchowicz</dc:creator>
+ <guid isPermaLink="false">5153201 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/spectrum-dark-theme#comments</comments>
+  </item>
+  <item>
+    <title>pmd-eclipse-plugin</title>
+    <link>http://marketplace.eclipse.org/content/pmd-eclipse-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/pmd_logo.png&quot; width=&quot;109&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-06-27 08:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22PMD%22&quot;&gt;PMD&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-03-05 09:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/adangel/listings&quot; title=&quot;Andreas Dangel&quot;&gt;Andreas Dangel&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Java, JavaScript, Salesforce.com Apex and Visualforce, PLSQL, Apache Velocity, XML, XSL.&lt;/p&gt;
+&lt;p&gt;Additionally it includes CPD, the copy-paste-detector. CPD finds duplicated code in Java, C, C++, C#, Groovy, PHP, Ruby, Fortran, JavaScript, PLSQL, Apache Velocity, Scala, Objective C, Matlab, Python, Go, Swift and Salesforce.com Apex and Visualforce.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 05 Mar 2016 14:48:53 +0000</pubDate>
+ <dc:creator>adangel</dc:creator>
+ <guid isPermaLink="false">2755329 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/pmd-eclipse-plugin#comments</comments>
+  </item>
+  <item>
+    <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, VHDL, and PSS</title>
+    <link>http://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/AMIQ_logo_web_110x63.jpg&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-06-26 13:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22AMIQ%20EDA%22&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-04-19 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/emisingname6ia/listings&quot; title=&quot;etools Mising name&quot;&gt;etools Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the design and verification engineers working with &lt;strong&gt;SystemVerilog, Verilog, VHDL, e, UPF, CPF, SLN, PSS, SDL&lt;/strong&gt;. &lt;strong&gt;Including Universal Verification Methodology (UVM)&lt;/strong&gt; support. It is similar to well-known programming tools like Visual Studio®, NetBeans®, and IntelliJ®. DVT comprises a proprietary IEEE standard-compliant parser, a smart code editor, an intuitive GUI, a comprehensive set of features that help with code inspection, navigation, documentation, and debugging, and an innovative linting framework. DVT allows design and verification engineers to overcome the limitations of plain text editors and use a modern and powerful tool that enables them to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Increase the speed and quality of new code development&lt;/li&gt;
+&lt;li&gt;Easily understand complex or poorly documented source code&lt;/li&gt;
+&lt;li&gt;Simplify the maintenance of legacy code and reusable libraries&lt;/li&gt;
+&lt;li&gt;Accelerate language and methodology learning&lt;/li&gt;
+&lt;li&gt;Automatically generate well-organized source code documentation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+FEATURES  Some of the features that DVT offers include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Compilation errors signaled on the fly&lt;/li&gt;
+&lt;li&gt;Autocomplete / Content Assist&lt;/li&gt;
+&lt;li&gt;Customizable code and project templates&lt;/li&gt;
+&lt;li&gt;Dedicated wizards to generate getters and setters, override functions, or help with UVM factory registration&lt;/li&gt;
+&lt;li&gt;Hyperlinks&lt;/li&gt;
+&lt;li&gt;Semantic Search and Show Usages&lt;/li&gt;
+&lt;li&gt;Quick fixes / Autocorrect&lt;/li&gt;
+&lt;li&gt;Refactoring&lt;/li&gt;
+&lt;li&gt;Macro expansion&lt;/li&gt;
+&lt;li&gt;Project database query views (types, macros, checks, etc.)&lt;/li&gt;
+&lt;li&gt;Structural views (type hierarchy, design hierarch, call hierarchy, etc.)&lt;/li&gt;
+&lt;li&gt;Signal tracing&lt;/li&gt;
+&lt;li&gt;UML and TLM diagrams for inspecting and documenting the verification environment&lt;/li&gt;
+&lt;li&gt;Schematic, trace, state machine diagrams for inspecting and documenting the design&lt;/li&gt;
+&lt;li&gt;Dedicated UVM support&lt;/li&gt;
+&lt;li&gt;Cross-language capabilities for mixed-language projects&lt;/li&gt;
+&lt;li&gt;In-line reminders for task tracking (TO DOs)&lt;/li&gt;
+&lt;li&gt;Vi and emacs emulation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;INTEGRATION WITH OTHER TOOLS Since it is built on the Eclipse Platform, the DVT IDE can be easily integrated within a large plug-in ecosystem. It also integrates seamlessly with all major hardware simulators such as NCSim , Specman , VCS , and Questa, to enable simplified simulation analysis and debugging. In addition, it works with revision control systems like CVS, Git, Subversion, ClearCase and bug tracking systems such as Bugzilla and ClearQuest.&lt;br /&gt;
+RESOURCES &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/products/dvt-eclipse-ide&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT Eclipse IDE Web Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/datasheets/amiq_dvt_datasheet.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT Eclipse IDE Datasheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLBx64n-99iZNiUJj_I8WkLLbRl8u0mi94&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Demo movies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dvteclipse.com/products/dvt-debugger&quot; rel=&quot;nofollow&quot;&gt;DVT Debugger Add-on&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
+ <dc:creator>emisingname6ia</dc:creator>
+ <guid isPermaLink="false">192 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-vhdl-and-pss#comments</comments>
+  </item>
+  <item>
+    <title>ImageJ Plugin</title>
+    <link>http://marketplace.eclipse.org/content/imagej-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-06-26 10:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Bio7%22&quot;&gt;Bio7&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-10-05 06:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mmisingnameaoh/listings&quot; title=&quot;Marcel Austenfeld&quot;&gt;Marcel Austenfeld&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin integrates the scientific image application ImageJ in an Eclipse view and is also part of the Bio7 application (&lt;a href=&quot;http://bio7.org&quot; rel=&quot;nofollow&quot;&gt;http://bio7.org&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;ImageJ is an open source image processing program designed for the analysis of scientific multidimensional images. Supported ImageJ images can be opened and analyzed in multiple view tabs.&lt;/p&gt;
+&lt;p&gt;ImageJ Plugins and macros are supported, too and can be installed in the plugins subfolder or the install location defined in the preferences.&lt;/p&gt;
+&lt;p&gt;Furthermore a full featured ImageJ macro editor is available to script image analysis tasks within the Eclipse environment which can be opened together with the ImageJ view in an available ImageJ perspective.&lt;/p&gt;
+&lt;p&gt;For more information visit:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bio7/EclipseImageJ1Plugin&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Bio7/EclipseImageJ1Plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://bio7.org&quot; rel=&quot;nofollow&quot;&gt;http://bio7.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ImageJ documentation and websites:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imagej.nih.gov/ij/&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imagej.net/Welcome&quot; rel=&quot;nofollow&quot;&gt;http://imagej.net/Welcome&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imagej.nih.gov/ij/docs/guide/146.html&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/docs/guide/146.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ImageJ Release Notes: &lt;a href=&quot;https://imagej.nih.gov/ij/notes.html&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/notes.html&lt;/a&gt;&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;New in 1.53.c (1.53.c62):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.c62&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Added Java 14 compiler support&lt;/li&gt;
+&lt;li&gt;Fixed a deadlock in the HTMLDialog&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.c (1.53.c3):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.c3&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Fixed a HyperStack converter bug.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.a (1.53a25):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.a25&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.a (1.53a21):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.a21&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.v (1.52v19):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52v19&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u33):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u33&lt;/li&gt;
+&lt;li&gt;Fixed a version number display bug.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u29):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u29&lt;/li&gt;
+&lt;li&gt;A change of the ImageJ plugin location (&#039;Plugins Path&#039;) in the preferences now automatically updates the plugins classpath and menus (avoids to use the action &#039;Help-&amp;gt;Refresh Menus&#039; in a second step).&lt;/li&gt;
+&lt;li&gt;Fixed a Compiler path bug for Linux and MacOSX when using the Plugins-&amp;gt;&#039;Compile Java Eclipse&#039; action to compile an ImageJ plugin from the current opened Java editor.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u28):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u28&lt;/li&gt;
+&lt;li&gt;Fixed a SWT memory bug not releasing native children of image tabs.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u24):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Added a new thumbnail action to the context menu of the &#039;Navigator&#039; view to open image and LUT files of a selected directory.&lt;/li&gt;
+&lt;li&gt;LUT&#039;s can now be displayed (preview) in the &#039;Thumbnails&#039; view. The selected LUT will be applied on the current supported ImageJ image (grayscale).&lt;/li&gt;
+&lt;li&gt;The Image info is now displayed as a popup in the &#039;Thumbnails&#039; view (if you hoover over an item).&lt;/li&gt;
+&lt;li&gt;Added a &#039;Detach All Images&#039; action (menu &#039;Window&#039;) to transfer all opened tab images to a view (which can be moved and arranged like a separate window)&lt;/li&gt;
+&lt;li&gt;Improved dark theme for AWT on Windows, MacOSX and Linux.&lt;/li&gt;
+&lt;li&gt;Added custom text properties to allow future dark themes or disable dark theme color schemes.&lt;/li&gt;
+&lt;li&gt;Improved the canvas layout for HighDPI displays on Windows.&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Improved the default AWT fonts (using OS fonts).&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q48):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a deadlock occuring  on MacoSX when detaching image tabs.&lt;/li&gt;
+&lt;li&gt;Fixed a PlotWindow deadlock when using the action &quot;Close All&quot;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+New in 1.52.q (1.52q46):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New debug view toolbar actions availabe to easily debug ImageJ macros (without loosing editor key focus on MacOSX when an image is created or opened).&lt;/li&gt;
+&lt;li&gt;Implemented all default ImageJ debug actions as toolbar actions (one action for &#039;Trace&#039; and &#039;Fast Trace&#039;)&lt;/li&gt;
+&lt;li&gt;New debug functions available to set a variable value in debug mode.&lt;/li&gt;
+&lt;li&gt;New breakpoint actions available to set, edit, delete breakpoints and simple expression breakpoints (evaluate  boolean variable expression) in the ruler menu of the editor. Created breakpoints are automatically stored, too.&lt;/li&gt;
+&lt;li&gt;Extended the editor hoover to display the variable values when you hoover the editor. Array values will be displayed, too.&lt;/li&gt;
+&lt;li&gt;The default array value display table will be opened if you click on the debug view table column.&lt;/li&gt;
+&lt;li&gt;Implemented several text editor and toolbar changes to visualize the debugging process.&lt;/li&gt;
+&lt;li&gt;Fixed several bugs.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;See: &lt;a href=&quot;https://forum.image.sc/t/eclipse-imagej-plugin-update-released-with-improved-debugger-interface/22952/16&quot; rel=&quot;nofollow&quot;&gt;https://forum.image.sc/t/eclipse-imagej-plugin-update-released-with-impr...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New in 1.52.q (1.52q45):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a PlotWindow deadlock&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q44):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52q44&lt;/li&gt;
+&lt;li&gt;Improved the embedded and detached PlotWindows. Now all plot windows are simultaneously resized according to their parent canvas (embedded or detached)&lt;/li&gt;
+&lt;li&gt;Fixed a bug in the detach menu action (wrong id and panel settings)&lt;/li&gt;
+&lt;li&gt;Removed the &#039;*&#039; tab icon (usually indicating an unsaved editor file) from the detached custom view by deleting the &#039;ISaveablePart2&#039; interface&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q34):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a toolbar exception when the toolbar was embedded in the Image perspective and not saved detached&lt;/li&gt;
+&lt;li&gt;Fixed wrong tab colors&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q30):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52q30&lt;/li&gt;
+&lt;li&gt;A new integrated Eclipse ImageJ macro debug view is available as an replacement for the debug dialog (close and reopen the perspective if you update this plugin to add the new view!)&lt;/li&gt;
+&lt;li&gt;Improved the Linux dark theme GUI for embedded AWT and Swing dialogs&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ macro code completion in general&lt;/li&gt;
+&lt;li&gt;Editor defined variables are added to the code completion and shown according to their scope (function or macro defined variables are added when opening the code completion inside this scope. Function arguments are added, too)&lt;/li&gt;
+&lt;li&gt;Editor defined functions are added to code completion.&lt;/li&gt;
+&lt;li&gt;Editor defined function arguments are added as selectable templates&lt;/li&gt;
+&lt;li&gt;Comments and multiline comments of editor defined functions are shown in the context code completion view (must be defined above the function)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p61):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p61&lt;/li&gt;
+&lt;li&gt;Added Java 12 compiler target&lt;/li&gt;
+&lt;li&gt;Added new macro code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p36):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p36&lt;/li&gt;
+&lt;li&gt;Improved code completion to find and set functions with fixed arguments&lt;/li&gt;
+&lt;li&gt;Improved hoover information to list all functions with identical name&lt;/li&gt;
+&lt;li&gt;Added new macro code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p30):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p30&lt;/li&gt;
+&lt;li&gt;Improved automatic layout correction for synchronized detached views (e.g., orthogonal views)&lt;/li&gt;
+&lt;li&gt;Improved titles of detached views to show correct titles and updates (e.g., coordinates of synchronized orthogonal views)&lt;/li&gt;
+&lt;li&gt;Improved the centering of dialogs in a multi-monitor setup (dialogs are centered in the monitor which contains the ImageJ view tabfolder)&lt;/li&gt;
+&lt;li&gt;Improved the code completion cursor location and arguments are now templates selectable with the tab key&lt;/li&gt;
+&lt;li&gt;Improved the code completion sorting of templates&lt;/li&gt;
+&lt;li&gt;Added a preference option to change the critera for code completion search to suggest function templates which contain the prefix&lt;/li&gt;
+&lt;li&gt;Added new file, directory dialogs to insert paths at the current cursor location.&lt;/li&gt;
+&lt;li&gt;Added a color and hex color dialog to select and insert color strings into the editor. Selected hex colors are displayed in the color dialog (if created before with the dialog)&lt;/li&gt;
+&lt;li&gt;Added new macro templates&lt;/li&gt;
+&lt;li&gt;Fixed several bugs (e.g., opened dialog option popups in macros, deadlock with SWT dialog in a running macro)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m28):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52m28&lt;/li&gt;
+&lt;li&gt;Implemented dynamic plot scaling when the image tabsize changes&lt;/li&gt;
+&lt;li&gt;Reset Plot action scales plot to default values (context menu &quot;Plot Size&quot;)&lt;/li&gt;
+&lt;li&gt;Plot fullscreen scaling support&lt;/li&gt;
+&lt;li&gt;Detached tab plot scaling support&lt;/li&gt;
+&lt;li&gt;Now tabs are visible selected when a window or image is selected (before the selection occured, too but invisible for speed reasons)&lt;/li&gt;
+&lt;li&gt;Implemented the Window components menu to make hidden components visible again (ROI Manager, Threshold, etc. - apparently works on MacOSX and Windows only)&lt;/li&gt;
+&lt;li&gt;Implemented Refresh Menus (if you create and compile a new plugin in the plugins folder with Eclipse (dynamically without restart) you can refresh the menu to update the plugins menu dynamically without a restart!)&lt;/li&gt;
+&lt;li&gt;Implemented the &quot;Help-&amp;gt;Examples-&amp;gt;Autorun Examples&quot; checkbox menu (true or false)&lt;/li&gt;
+&lt;li&gt;Restored the modal dialogs on Windows&lt;/li&gt;
+&lt;li&gt;Added latest macro API templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m20):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ version 1.52m (1.52m20)&lt;/li&gt;
+&lt;li&gt;Added new macro function definitions&lt;/li&gt;
+&lt;li&gt;Zoom factor is now displayed in the image tabs&lt;/li&gt;
+&lt;li&gt;Workaround a SWT key focus loss with ImageJ on Linux (occurred on Ubuntu 18.10)&lt;/li&gt;
+&lt;li&gt;Fixed an exception when adding an image to a stack (action &quot;Add Slice&quot;) of size 1&lt;/li&gt;
+&lt;li&gt;Detached tab images are now closed, too when using the &quot;File-&amp;gt;Close All&quot; view menu action&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m12):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ version 1.52m (1.52m12)&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ canvas (Plot canvas and Image canvas are now opened as intended)&lt;/li&gt;
+&lt;li&gt;Improved plot canvas (zooming, actions, etc. are now working as intended)&lt;/li&gt;
+&lt;li&gt;Plot action buttons are now added below the each plot&lt;/li&gt;
+&lt;li&gt;Added new actions to interpret the current opened Eclipse editor sources (BeanShell, JavaScript, Jython and ImageJ macro) using the ImageJ interpreters (using, e.g., PyDev for Jython).&lt;/li&gt;
+&lt;li&gt;Added a new Java compile action to compile the current opened Eclipse editor source (ImageJ plugins, etc.)&lt;/li&gt;
+&lt;li&gt;MouseWheel actions are now working as intended (use STRG+MousWheel to zoom!)&lt;/li&gt;
+&lt;li&gt;Improved stability for drag and drop of multiple image files&lt;/li&gt;
+&lt;li&gt;Improved stability for MacOSX&lt;/li&gt;
+&lt;li&gt;Reorganized Eclipse plugins and features&lt;/li&gt;
+&lt;li&gt;ImageJ2 can now be optionally installed and is not bundled by default (now optional dependent of ImageJ). Customization is possible (plugin can be populated with maven command in Eclipse)&lt;/li&gt;
+&lt;li&gt;Added the latest ImageJ macro function templates&lt;/li&gt;
+&lt;li&gt;JavaFX (embed Swing in JavaFX and SWT panel) can now be optionally installed (but is not necessary by default)&lt;/li&gt;
+&lt;li&gt;Removed the outdated Albireo plugin dependency&lt;/li&gt;
+&lt;li&gt;Added key listener for the tab when all images are closed (ImageJ keys!)&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ macro hoover (workaround for SWT_AWT)&lt;/li&gt;
+&lt;li&gt;Added a workaround for repaint issues in MacOSX when switching perspectives with SWT_AWT&lt;/li&gt;
+&lt;li&gt;Added a workaround for MacOSX to receive key events again after focus lost (sometimes you need to press the mouse two times when the perspectives have been switched)&lt;/li&gt;
+&lt;li&gt;Fixed several rare occuring deadlock events on MacOSX&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52h (1.52h5):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.52h (1.52h5)&lt;/li&gt;
+&lt;li&gt;Added a new rename action (rename all words like the current selection - multiple cursor)&lt;/li&gt;
+&lt;li&gt;Improved dark theme with popular Eclipse darkest dark theme and default dark theme&lt;/li&gt;
+&lt;li&gt;Editor colors are automatically switched when using the dark theme (or darkest dark theme)&lt;/li&gt;
+&lt;li&gt;ImageJ toolbar improved for the dark theme&lt;/li&gt;
+&lt;li&gt;Added a new ImageJ detach image menu in the ‘Window’ menu of the ImageJ-Canvas view&lt;/li&gt;
+&lt;li&gt;Added all new ImageJ macro API functions to the code completion of the macro editor&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ MacOSX touchpad resizing of the ImageJ panel&lt;/li&gt;
+&lt;li&gt;Improved the default font size for Swing components on Retina displays (e.g., ImageJ components - can be changed in the preferences)&lt;/li&gt;
+&lt;li&gt;Added some new macro source actions (Block Selection, Find And Replace, etc. - submenu Text ) to the macro editor&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52c12:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.52c12&lt;/li&gt;
+&lt;li&gt;Updated ImageJ2 libraries (pom-scijava 20.0.0)&lt;/li&gt;
+&lt;li&gt;Added recent macro API commands to code completion&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs (hoover offset, Linux awt dialogs etc.)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51u54:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.51u54&lt;/li&gt;
+&lt;li&gt;Fixed lost keyboard focus for key shortcuts&lt;/li&gt;
+&lt;li&gt;Improved preferences for Swing fonts (to decrease on Retina displays)&lt;/li&gt;
+&lt;li&gt;Several other fixes for MacOSX&lt;/li&gt;
+&lt;li&gt;Added description for increased fonts for MacOSX (see Github page!)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51u20:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Cluttered MACOSX menus are now closed (added from opened application windows and frames). Some default added menus are disabled in the Bio7 preferences by default&lt;/li&gt;
+&lt;li&gt;Code completion (template) action now displays the macro documentation and context information when typing&lt;/li&gt;
+&lt;li&gt;Improved code completion layout (context information)&lt;/li&gt;
+&lt;li&gt;Added debug context menu actions to the macro editor&lt;/li&gt;
+&lt;li&gt;Added some other context menu actions, too (&#039;Get Macro Recorder Text&#039;, &#039;Evaluate Line&#039;)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51s24:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.51.s24&lt;/li&gt;
+&lt;li&gt;Code completion (templates) action now displays the macro documentation when typing&lt;/li&gt;
+&lt;li&gt;Code completion context information improved&lt;/li&gt;
+&lt;li&gt;Images from macros are now opened fast (before had a 2s delay because of a missing attribute)&lt;/li&gt;
+&lt;li&gt;MacOSX extra menu disabled (avoids a cluttered menu)&lt;/li&gt;
+&lt;li&gt;Macros can now be executed within an external ImageJ instance in a separate Java process (if enabled in the preference - see screenshot 2 below)&lt;/li&gt;
+&lt;li&gt;Added JavaFX library reference for Java9&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p4 (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a bug to rename the &#039;Results&#039; table&lt;/li&gt;
+&lt;li&gt;Fixed a key shortcut bug&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p3 (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;    Improved the grammar&lt;/li&gt;
+&lt;li&gt;    Added an action to transfer the ImageJ macro recorder text to the selected line in the macro editor (CTRL+SHIFT+R, CMD+SHIFT+R)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a bug to control dialogs&lt;/li&gt;
+&lt;li&gt;Fixed a Linux code templates bug&lt;/li&gt;
+&lt;li&gt;Added more code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p:&lt;/p&gt;
+&lt;p&gt;In this relase a macro editor and ImageJ perspective have been added to the ImageJ plugin. In addition the menu of the ImageJ plugin is now right assigned and the toolbar resizes dynamically.&lt;/p&gt;
+&lt;p&gt;The editor has the following features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;    Dynamic error detection (grammar derived from the ECMA grammar by Bart Kiers)&lt;/li&gt;
+&lt;li&gt;    Toolbar action to execute ImageJ macros&lt;/li&gt;
+&lt;li&gt;    Syntax highlightening&lt;/li&gt;
+&lt;li&gt;    Debugging support (reusing and implementing interfaces and methods from ImageJ - same keyboard shortcuts - see animation below)&lt;/li&gt;
+&lt;li&gt;    Code completion (with browser help)&lt;/li&gt;
+&lt;li&gt;    Code templates (add you own templates)&lt;/li&gt;
+&lt;li&gt;    Info popups (text hoover)&lt;/li&gt;
+&lt;li&gt;    Outline view (var variables, variables, methods and macros)&lt;/li&gt;
+&lt;li&gt;    Automatic closing of braces, parentheses and strings Automatic indention of functions,loops, etc.&lt;/li&gt;
+&lt;li&gt;    Code folding&lt;/li&gt;
+&lt;li&gt;    Code formatting (based on the Eclipse-javascript-formatter by Sebastian Moran)&lt;/li&gt;
+&lt;li&gt;    Resize fonts functions (with Ctrl++ or CMD++, CTRL+- or CMD +-)&lt;/li&gt;
+&lt;li&gt;    Font preferences&lt;/li&gt;
+&lt;li&gt;    Mark occurences (scope independant)&lt;/li&gt;
+&lt;li&gt;    A copy function for this forum&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51n:&lt;/p&gt;
+&lt;p&gt;* Added a fake editor to register and open standard image files from the Navigator or Project Explorer, etc in the ImageJ view.&lt;/p&gt;
+&lt;p&gt;* Fixed several image conversion bugs&lt;/p&gt;
+&lt;p&gt;* Moved plugin update site to github (if you have an old installation please uninstall the old plugins first before you install from this location!)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Oct 2016 10:59:26 +0000</pubDate>
+ <dc:creator>mmisingnameaoh</dc:creator>
+ <guid isPermaLink="false">3103502 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/imagej-plugin#comments</comments>
+  </item>
+  <item>
+    <title>UML Lab Modeling IDE</title>
+    <link>http://marketplace.eclipse.org/content/uml-lab-modeling-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Eclipse%20Marketplace%20Listing%20-%20Round-Trip-Engineering%20%282%29%20110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-06-26 10:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Yatta%20Solutions%20GmbH%22&quot;&gt;Yatta Solutions GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2010-11-11 09:06&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/lgeiger/listings&quot; title=&quot;Leif Geiger&quot;&gt;Leif Geiger&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;UML Lab Modeling IDE&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&quot;http://www.uml-lab.com/uml-lab/eclipse/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;UML Lab&lt;/a&gt; is the first Modeling IDE to seamlessly combine modeling and programming with an intuitive UML diagram editor and &lt;a href=&quot;http://www.uml-lab.com/uml-lab/features/roundtrip/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;next-gen round-trip engineering&lt;/a&gt;. Import your software project and get a nice overview via UML within seconds. Experience truly agile modeling and coding within your Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.uml-lab.com/en/uml-lab/videos/round-trip-engineering-ng-video/&quot; target=&quot;UML Lab Gallery&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In short, &lt;a href=&quot;http://www.uml-lab.com/uml-lab/eclipse/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;UML Lab&lt;/a&gt; helps you develop great software.&lt;/p&gt;
+&lt;h3&gt;UML Lab Features for Eclipse Modeling&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Template-based Reverse- and Round-Trip-Engineering NG&lt;/li&gt;
+&lt;li&gt;UML 2.5 class diagram editor with Xpand/Xtend integration&lt;/li&gt;
+&lt;li&gt;Java templates with best practices and patterns included (POJO, JPA, JEE)&lt;/li&gt;
+&lt;li&gt;Java 8 ready&lt;/li&gt;
+&lt;li&gt;PHP templates including MySQL, Zend Framework and CakePHP support&lt;/li&gt;
+&lt;li&gt;Model-based code validation (OCL)&lt;/li&gt;
+&lt;li&gt;Navigation and model exploration&lt;/li&gt;
+&lt;li&gt;Quick overview for any Mylyn task with Context Class Diagrams&lt;/li&gt;
+&lt;li&gt;Task-focussed modeling with Mylyn and round-trip context synchronization&lt;/li&gt;
+&lt;li&gt;XMI import/export (Rational Software Architect, TopCASED, Eclipse UML2)&lt;/li&gt;
+&lt;li&gt;Diagram export (svg, png, jpg, bmp)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Get UML Lab&lt;/h3&gt;
+&lt;p&gt;Visit our &lt;a href=&quot;http://www.uml-lab.com/uml-lab/eclipse/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;website&lt;/a&gt; for more information, pricing and to download a &lt;a href=&quot;http://www.uml-lab.com/download/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;FREE 30-Day Trial&lt;/a&gt; of UML Lab. Annual licenses are available from EUR 199 including support and updates; &lt;a href=&quot;http://www.uml-lab.com/academic/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;Academic Licenses&lt;/a&gt; are free.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://marketplace.yatta.de/profiles/kbut&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Contact us&lt;/h3&gt;
+&lt;p&gt;Missing some information? Post your question in our &lt;a href=&quot;https://forum.yatta.de/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;forum&lt;/a&gt; or &lt;a href=&quot;http://www.yatta.de/kontakt/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;contact us&lt;/a&gt; and follow the latest Yatta News on &lt;a href=&quot;http://twitter.com/YattaSolutions/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;Twitter&lt;/a&gt; (e.g. UMLlab ) and &lt;a href=&quot;http://facebook.com/YattaSolutions/&quot; target=&quot;umllab&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 11 Nov 2010 14:06:52 +0000</pubDate>
+ <dc:creator>lgeiger</dc:creator>
+ <guid isPermaLink="false">19495 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/uml-lab-modeling-ide#comments</comments>
+  </item>
+  <item>
+    <title>Java 12 Support for Eclipse 2019-03 (4.11)</title>
+    <link>http://marketplace.eclipse.org/content/java-12-support-eclipse-2019-03-411</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-06-26 05:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-03-13 02:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jarthanaree/listings&quot; title=&quot;Jay Arthanareeswaran&quot;&gt;Jay Arthanareeswaran&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This marketplace solution provides Java 12 support for Eclipse 2019-03 (4.11). To install the feature, please ensure you have the 4.11 version of Eclipse IDE installed:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://download.eclipse.org/eclipse/downloads/drops4/R-4.11-201903070500/&quot; rel=&quot;nofollow&quot;&gt;https://download.eclipse.org/eclipse/downloads/drops4/R-4.11-201903070500/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The feature can also be installed via the update site:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://download.eclipse.org/eclipse/updates/4.11-P-builds&quot; rel=&quot;nofollow&quot;&gt;https://download.eclipse.org/eclipse/updates/4.11-P-builds&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For an informal list of examples of Java 12 features, please have a look at the following page:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wiki.eclipse.org/Java12/Examples&quot; rel=&quot;nofollow&quot;&gt;https://wiki.eclipse.org/Java12/Examples&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 13 Mar 2019 06:51:08 +0000</pubDate>
+ <dc:creator>jarthanaree</dc:creator>
+ <guid isPermaLink="false">4540402 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/java-12-support-eclipse-2019-03-411#comments</comments>
+  </item>
+  </channel>
+</rss>

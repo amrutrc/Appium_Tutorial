@@ -1,0 +1,37 @@
+package ApiDemos;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.List;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
+import io.appium.java_client.remote.AndroidMobileCapabilityType;
+import io.appium.java_client.remote.MobileCapabilityType;
+
+public class api_demo_real_device 
+{
+	public static void main(String[] args) throws MalformedURLException 
+	{
+		AndroidDriver<AndroidElement> driver;
+		 DesiredCapabilities cap = new DesiredCapabilities();
+		 cap.setCapability(MobileCapabilityType.DEVICE_NAME, "aqjrmjsoaqqkbude");
+		 cap.setCapability(MobileCapabilityType.VERSION, "9.0");
+		 cap.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
+		 cap.setCapability(AndroidMobileCapabilityType.APP_PACKAGE,"io.appium.android.apis");
+		 cap.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,".ApiDemos");
+		 driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);
+		 driver.manage().timeouts().implicitlyWait(2000, TimeUnit.SECONDS);
+		 driver.findElementByAndroidUIAutomator("text(\"Views\")").click();
+		 driver.findElementByXPath("//android.widget.TextView[@content-desc='Auto Complete']").click();		 
+		List<AndroidElement> element = driver.findElementsById("android:id/list");
+		for(WebElement e1 : element)
+		{
+			System.out.println(e1);
+		}
+	}
+}
