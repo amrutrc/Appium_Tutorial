@@ -11,6 +11,12 @@ public class practice_1
 	System.out.println("Demo1");
 	}
 	
+	@Test
+	public void demo1A()
+	{
+		System.out.println("Demo2");
+	}
+	
 	@Test(groups = {"Smoke"})
 	public void demo2()
 	{
