@@ -16,6 +16,24 @@ public class day5
 		System.out.println("EDemo");
 	}
 	
+	@Test
+	public void AA()
+	{
+		System.out.println("AA");
+	}
+	
+	@Test
+	public void BB()
+	{
+		System.out.println("BB");
+	}
+	
+	@Test
+	public void CC()
+	{
+		System.out.println("CC");
+	}
+	
 	@Test(dependsOnMethods = {"ADemo"})
 	public void IDemo()
 	{
