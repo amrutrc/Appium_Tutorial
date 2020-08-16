@@ -3,10 +3,6 @@ a
 b
 c
 d
-e
-f
-g
-h
 
 Numbers 
 1
@@ -19,3 +15,4 @@ Numbers
 8
 9
 10
+
