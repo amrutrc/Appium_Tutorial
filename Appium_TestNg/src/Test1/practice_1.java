@@ -14,8 +14,15 @@ public class practice_1
 	@Test
 	public void demo1A()
 	{
-		System.out.println("Demo2");
+		System.out.println("Demo1A");
 	}
+	
+	@Test
+	public void demo1B()
+	{
+		System.out.println("Demo1B");
+	}
+	
 	
 	@Test(groups = {"Smoke"})
 	public void demo2()
