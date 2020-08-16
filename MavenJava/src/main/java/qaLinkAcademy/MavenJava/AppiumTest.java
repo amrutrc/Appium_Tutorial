@@ -14,8 +14,6 @@ public class AppiumTest
 	@Test
 	public void IosApps()
 	{
-		
-	}
-	
-	
+		System.out.println("IOS");
+	}	
 }

@@ -15,4 +15,10 @@ public class SeleniumTest
 	{
 		System.out.println("elementsUI");
 	}
+	
+	@Test
+	public void UIAutomation()
+	{
+		System.out.println("UIAutomation");
+	}
 }

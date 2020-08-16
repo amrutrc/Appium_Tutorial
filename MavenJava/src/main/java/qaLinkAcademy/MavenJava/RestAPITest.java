@@ -16,4 +16,9 @@ public class RestAPITest
 		System.out.println("deleteTwitter");
 	}
 	
+	@Test
+	public void writeJira()
+	{
+		System.out.println("writeJira");
+	}
 }
